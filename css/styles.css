@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+
+html,body{
+	min-height: 100vh;
+	margin: 0;
+   
+}
+
+img{
+    width:100%;
+}
+
+/**
+In our css we only use class-based selectors, no tag id's (no hashtags)
+*/
+/**
+Ben methadoligy
+Re-usability
+Modifiers
+Handed in on GIT, initialize a repositor
+**/
