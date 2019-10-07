@@ -1,0 +1,35 @@
+* {
+	box-sizing: border-box;
+}
+
+html,body{
+	min-height: 100vh;
+	margin: 0;
+  background-color: blue; 
+  background-image: linear-gradient(blue, white);
+}
+
+img{
+    width:100%;
+}
+
+.story_author{
+    color: black;
+     text-align: center;
+}
+
+
+
+.story{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    flex-direction: column;
+    border: 3px solid black;
+     font-size: 5vh;
+    margin: 10vh;
+    
+}
+
+   

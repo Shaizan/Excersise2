@@ -33,16 +33,28 @@ img{
     align-items: center;
     justify-content: space-evenly;
     font-size: 2.5vh;
+    
 }
+
+
 
 .story{
     border: 3px solid black;  
 }
+
+.story:hover{
+  font-size: 125%;
+    background: white;
+}
+
 .story_author{
     color: black;
     font-weight: bolder;
 }
 
+.story_text{
+    color:black;
+}
 
 
 /**
